@@ -39,4 +39,4 @@ em, pix, % vw(porcentaje del ancho de la pantalla)
 --gray-500: #adb5bd;
 --black: #000;
 
-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 token
+
