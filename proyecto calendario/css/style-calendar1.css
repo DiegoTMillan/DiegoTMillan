@@ -1,0 +1,53 @@
+:root {
+    background-color: hsl(30, 8%, 95%);
+    text-align: center;
+    font-size: 250%;
+}
+.months {
+    padding: 3% 4%;
+    font-size: 100%;
+    font-weight: 500;
+    color: black;
+    background-color: hsl(30, 8%, 95%);
+    border-radius: 10px;
+    border: none
+}
+.years {
+    padding: 3% 4%;
+    font-size: 100%;
+    font-weight: 500;
+    color: black;
+    background-color: hsl(30, 8%, 95%);
+    border-radius: 10px;
+    border: none
+}
+.box1 {
+    height: 45%;
+    width: 30%;
+    text-align: center;
+    background-color: white;
+    border-radius : 15%
+}
+table {
+    margin:auto;
+    size-adjust: auto;
+}
+.back {
+    padding: 3% 7%;
+    font-size: 100%;
+    font-weight: 500;
+    color: black;
+    background-color: hsl(30, 8%, 95%);
+    border-radius: 10px;
+    border: none
+}
+.apply {
+    padding: 3% 7%;
+    font-size: 100%;
+    font-weight: 500;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    border: none
+}
+

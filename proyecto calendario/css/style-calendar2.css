@@ -1,0 +1,71 @@
+:root {
+    background-color: white;
+    text-align: center;
+    font-size: 3 rem;
+    font-family:Arial, Helvetica, sans-serif  
+}
+.box1 {
+    background-color: #F7685D;
+    padding: 3% 4%;
+    
+    
+}
+.special {
+    background-color: #F77458;
+    color: white;
+    height: 2em;
+    width: 2em;
+    border-radius: 50%;
+    border-collapse: collapse;
+    border: none;
+    margin: auto
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border: none;
+    background-color: white;
+    height: 200;
+    width: 200;
+    box-shadow: 
+    -3px 3px 5px black, 
+    3px 3px 5px black; 
+}
+tr td:nth-child(1) {
+    width: 3em;
+    height: 3em;
+}
+tr td:nth-child(2) {
+    width: 3em;
+    height: 3em;
+}
+tr td:nth-child(3) {
+    width: 3em;
+    height: 3em;
+}
+tr td:nth-child(4) {
+    width: 3em;
+    height: 3em;
+}
+tr td:nth-child(5) {
+    width: 3em;
+    height: 3em;
+}
+tr td:nth-child(6) {
+    width: 3em;
+    height: 3em;
+}
+tr td:nth-child(7) {
+    width: 3em;
+    height: 3em;
+}
+thead tr:nth-child(1) {
+    background-color: #404040;
+    color: white;
+}
+
+tbody tr:nth-child(n) {
+    background-color: white;
+    color: #404040;
+}
+
