@@ -1,0 +1,15 @@
+:root {
+    text-align: center;
+    font-size: 3 rem;
+    font-family:Arial, Helvetica, sans-serif  
+}
+body {
+    background-color:#D5EAFB; 
+    padding: 3% 4%
+}
+.box1 {
+    background-color: #FAF9FE;
+    height: 35em;
+    width: 25em;
+    border-radius: 4%;
+}
