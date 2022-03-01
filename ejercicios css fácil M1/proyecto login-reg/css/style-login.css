@@ -1,0 +1,81 @@
+:root {
+    text-align: center;
+    font-size: 3 rem;
+    font-family:Arial, Helvetica, sans-serif  
+}
+body {
+    background-color:#D5EAFB; 
+    padding: 2% 4%
+}
+.box1 {
+    background-color: #FAF9FE;
+    height: 30em;
+    width: 25em;
+    border-radius: 4%;
+    box-shadow:
+    -3px 3px 5px grey, 
+    3px 3px 5px grey  
+}
+.box2 {
+    text-align: left;
+    
+}
+h1 {
+    text-align: left;
+    font-size: 30px;
+    color: #555D66;
+    padding: 10% 1% 5% 8%
+}
+span {
+    text-align: left;
+    font-size: 15px;
+    color: #555D66;
+}
+.input1{
+    padding: 0px 107px 0px 0px;
+    text-align: left;
+    vertical-align: baseline;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    background-color: #FAF9FE;
+    font-size: 17px;
+    color:#E1E6EC
+}
+.input2{
+    padding: 40px 107px 0px 0px;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    background-color: #FAF9FE;
+    font-size: 17px;
+    color:#E1E6EC
+}
+.input3{
+    padding: 40px 107px 0px 0px;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    background-color: #FAF9FE;
+    font-size: 17px;
+    color:#E1E6EC
+}
+button {
+    background-color: #F66546;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 2% 29%;
+    font-style: bold;
+    font-size: 20px;
+    box-shadow: -3px -3px 3px #fbb7a7, 
+    3px 3px 3px  #fbb7a7;
+}
+p{
+    text-align: left;
+    padding: 2% 8%;
+    color:#757575 
+}
+a{
+    text-decoration: none
+}
