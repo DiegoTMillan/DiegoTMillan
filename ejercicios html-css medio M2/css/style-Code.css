@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500;700&display=swap");
+:root {
+  font-size: 0.785rem;
+  --charcoal: hsla(210, 12%, 29%, 1);
+  --pewter-blue: hsla(190, 13%, 63%, 1);
+  --white: hsla(0, 0%, 100%, 1);
+  --cameo-pink: hsla(348, 44%, 80%, 1);
+  --copper-rose: hsla(358, 20%, 51%, 1);
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: var(--charcoal);
+  border: none;
+  padding: 5% 7%;
+}
+.box1 {
+  background-color: white;
+  padding: 5em;
+  border-radius: 10px;
+  margin: auto;
+  box-shadow: 3px 3px 15px var(--charcoal);
+}
+.box2 {
+  background-color: var(--cameo-pink);
+  padding: 1em;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 3px 3px 15px var(--charcoal);
+  line-height: 2em;
+  margin-top: 4em;
+}
+h1 {
+  background-color: var(--copper-rose);
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 3px 3px 15px var(--charcoal);
+}
+h2 {
+  background-color: var(--cameo-pink);
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 3px 3px 15px var(--charcoal);
+}
+.code {
+  background-color: var(--pewter-blue);
+  padding: 2% 3%;
+  border-radius: 5px;
+}
+pre {
+  background-color: var(--pewter-blue);
+  padding: 2% 3%;
+  border-radius: 10px;
+}
+.abrev{
+    background-color: white;
+}
+span {
+  padding: 1% 2%;
+  background-color: var(--charcoal);
+  color: white;
+  border-radius: 5px;
+}
+cite {
+  color: var(--copper-rose);
+}
+form {
+  text-align: center;
+  margin-top: 3em;
+}
+input {
+  height: 3em;
+  width: 8em;
+  border: none;
+  background-color: var(--copper-rose);
+  border-radius: 5px;
+  box-shadow: 3px 3px 15px var(--charcoal);
+}
