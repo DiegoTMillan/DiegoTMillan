@@ -1,3 +1,102 @@
-table{
-    background-color: grey;
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;600&family=Open+Sans:wght@300;500;700&display=swap");
+@media (min-width: 640px) {
+  :root {
+    font-size: 0.4rem;
+  }
+}
+
+:root {
+  --purple: hsla(278, 100%, 36%, 1);
+  --french-violet: hsla(263, 60%, 48%, 1);
+  --slate-blue: hsla(239, 53%, 59%, 1);
+  --united-nations-blue: hsla(213, 64%, 59%, 1);
+  --carolina-blue: hsla(203, 69%, 59%, 1);
+  --cyan-process: hsla(194, 73%, 59%, 1);
+  --sky-blue-crayola: hsla(188, 70%, 61%, 1);
+  --medium-turquoise: hsla(180, 66%, 63%, 1);
+  --turquoise: hsla(171, 80%, 69%, 1);
+  --aquamarine: hsla(163, 100%, 75%, 1);
+  font-family: "Fredoka", sans-serif;
+  font-size: 0.785rem;
+}
+body {
+  background-color: var(--french-violet);
+  max-width: fit-content;
+  margin: auto;
+}
+.box1 {
+  background-color: var(--united-nations-blue);
+  padding: 5% 8%;
+  border-radius: 5px;
+  margin-top: 3em;
+}
+h1 {
+  text-align: center;
+  font-size: 1.7rem;
+  padding-bottom: 0.2em;
+  margin-top: -0.2em;
+}
+table {
+  background-color: var(--carolina-blue);
+  border: solid;
+  border-width: 1.5px;
+  border-color: var(--french-violet);
+  margin: auto;
+  padding: 3% 2%;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px var(--french-violet);
+}
+thead th {
+  background-color: var(--united-nations-blue);
+  border-radius: 3px;
+}
+
+th,
+td {
+  height: 2em;
+  width: 7em;
+  padding: 0.3em 0.2em 0.3em 0.2em;
+  text-align: center;
+}
+.Assembly {
+  text-align: center;
+  background-color: aquamarine;
+  border-radius: 3px;
+}
+.SST {
+  background-color: var(--purple);
+  border-radius: 3px;
+}
+.Sci {
+  background-color: var(--turquoise);
+  border-radius: 3px;
+}
+.Math {
+  background-color: var(--sky-blue-crayola);
+  border-radius: 3px;
+}
+.Mar {
+  background-color: var(--medium-turquoise);
+  border-radius: 3px;
+}
+.Hin {
+  background-color: var(--slate-blue);
+  border-radius: 3px;
+}
+.Eng {
+  background-color: var(--french-violet);
+  border-radius: 3px;
+}
+.Comp {
+  background-color: var(--united-nations-blue);
+  border-radius: 3px;
+}
+.Mus {
+  border-radius: 3px;
+  background-color: var(--cyan-process);
+}
+.Hour {
+  background-color: var(--united-nations-blue);
+  padding: 2%;
+  border-radius: 3px;
 }
