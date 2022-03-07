@@ -21,16 +21,16 @@
     --dark: #292a2b;
   }
 section{
-    width: 100½;
-    display: flex;
+  flex-direction: row;
     align-content: center; 
     background-color: var(--indigo);
-    padding: 4em 4em
+    max-width: 100%;
 }
 section > div{
-    display: flex;
+  flex-direction: row;
     background-color: var(--orange);
     padding: 1em 1em;
-    margin: 1em
+    margin: 1em;
+    max-width: 2em;
     
 }
