@@ -28,17 +28,19 @@
     section{
         background-color: hsl(300, 6%, 94%);
         margin: 2em auto;
-        width:35%;
-        height:auto;
+        width:80%;
+        padding: 1em;
+        min-height: 35vh;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
         
     }
     .box1{
-        width: 100%;
+        width: 30%;
         font-family:'Open Sans', sans-serif;
         background-color: white;
+        margin: 1%
     }
     img{
         width: 65%;
@@ -49,35 +51,54 @@
     }
     .text{
         display: flex;
-        padding-bottom: 1em;
+        padding:1.4em;
         border-bottom: 2px solid hsl(300, 6%, 94%);
         margin-top: 5%;
+        align-items: center;
+        font-size: 0.7rem;
     }
     .name{
         margin-left: 5%;
     }
     .stars{
-        margin-left: 25%;
+        margin-left: auto;
     }
     i{
         display: flex;
         color: hsl(21, 92%, 62%);
+        margin-left: auto;
     }
     footer{
         margin: 5%;
-        display:flex
+        display:flex;
+        font-size: .9rem;
+        flex-direction: column;
     }
     a{
         text-decoration: none;
         color:#198754
     }
     button{
-        display: flex right;
-        margin-left: 52%;
-        margin-bottom: 5%;
+        margin-left: 5em;
         background-color: #0d6efd;
         color: white;
-        padding: 2% 3%;
+        padding: 1% 2%;
         border-radius: 5px;
+        font-weight: bold;
     }
+    .hvr-bounce-in {
+        display: inline-block;
+        vertical-align: middle;
+        -webkit-transform: perspective(1px) translateZ(0);
+        transform: perspective(1px) translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+      }
+      .hvr-bounce-in:hover, .hvr-bounce-in:focus, .hvr-bounce-in:active {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
+        -webkit-transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+        transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+      }
 

@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;600&family=Open+Sans:wght@300;500;700&family=Roboto:wght@100;300;400;500&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+:root {
+  font-size: 0.785rem;
+  --blue: #0d6efd;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #d63384;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #198754;
+  --teal: #20c997;
+  --cyan: #0dcaf0;
+  --dark: #292a2b;
+  font-family: "Roboto", sans-serif;
+}
+section {
+  margin: 2em auto;
+  width: max-content;
+  min-height: 100vh;
+  background-color: white;
+  font-size: 2rem;
+}
+.box1 {
+  background-color: rgba(250, 250, 250, 1);
+  padding: 1em 3em;
+  width: auto;
+}
+.cardgroup {
+  display: flex;
+}
+.card {
+  width: 60%;
+  height: auto;
+  padding: 1em;
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--blue);
+  color: white;
+  border-radius: 5px;
+}
+.card:hover {
+    background-color: #6f42c1;
+}
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+  }
+  .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }  
+.card2:hover {
+  background-color: #6f42c1;
+}
+.card3:hover {
+  background-color: #6f42c1;
+}
+.card4:hover {
+  background-color: #6f42c1;
+}
+.card2 {
+  width: 60%;
+  height: auto;
+  padding: 1em;
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--green);
+  color: white;
+  border-radius: 5px;
+}
+.card3 {
+  width: 60%;
+  height: auto;
+  padding: 1em;
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--orange);
+  color: white;
+  border-radius: 5px;
+}
+.card4 {
+  width: 60%;
+  height: auto;
+  padding: 1em;
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--red);
+  color: white;
+  border-radius: 5px;
+}
+.c1 {
+  display: flex;
+  font-size: 1rem;
+  padding: 1em;
+}
+.c2 {
+  display: flex;
+  margin-left: 0.6em;
+  padding-bottom: 0.5em;
+}
+.p1 {
+  padding-left: 5em;
+  font-weight: 500;
+  font-size: 2.4rem;
+  text-align: center;
+  vertical-align: text-top;
+}
+.c3 {
+  display: flex;
+  padding-bottom: 0.7em;
+}
+h4 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-left: 0.8em;
+}
+.p2 {
+  font-size: 1.1rem;
+  margin-left: 7em;
+}
