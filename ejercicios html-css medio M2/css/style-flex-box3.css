@@ -22,7 +22,7 @@
     }
 section{
     margin: 2em auto;
-    width: 100%;
+    width: 80%;
     min-height: 100vh;
     background-color: white;
     font-size: 2rem;
@@ -67,7 +67,7 @@ section{
     transform: scale(1.2);
     -webkit-transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
     transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
-  }  
+  }
 img{
     width:100%;
     height: auto;   
