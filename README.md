@@ -26,7 +26,7 @@ At the end of the bootcamp I shown my own project, indeed you can see it too. He
 I have worked as a physiotherapist and basketball referee for 10 years.
 
 # What have I seen in Code Space Bootcamp?
-![image info](./img/icons8-html-5-96.png) ![image info](./img/icons8-css3-96.png) ![image info](./img/icons8-javascript-96.png) ![image info](./img/icons8-react-native-96.png) ![image info](./img/icons8-php-96.png) ![image info](./img/icons8-symfony-96.png) ![image info](./img/icons8-nodejs-96.png) ![image info](./img/icons8-mysql-logo-96.png) ![image info](./img/icons8-mongodb-96.png)
+![image info](./img/icons8-html-5-96.png) ![image info](./img/icons8-css3-96.png) ![image info](./img/icons8-javascript-96.png) ![image info](./img/icons8-react-native-96.png) ![image info](./img/icons8-php-96.png) ![image info](./img/icons8-symfony-96.png) ![image info](./img/icons8-nodejs-96.png) ![image info](./img/icons8-mysql-logo-96.png) ![image info](./img/icons8-mongodb-96.png) ![image info](./img/icons8-bootstrap-96.png)
 
 [Icons provided by Icons8](https://icons8.com/)
 
