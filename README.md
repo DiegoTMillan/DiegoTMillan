@@ -5,9 +5,7 @@ in 14th july 2022 I finished a Full Stack Web Developer bootcamp and I'm now rea
 [![Github](https://img.shields.io/github/followers/DiegoTMillan?label=Follow&style=social)](https://github.com/DiegoTMillan)\
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoTMillan&show_icons=true&theme=tokyonight)
 # What have I seen?
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+![image info](./img/javascript-js.256x256.png) ![image info](./img/html5-original-wordmark.182x256.png) ![image info](./img/css3-original-wordmark.183x256.png) ![image info](./img/react-original-wordmark.210x256.png) ![image info](./img/php-original.256x135.png) ![image info](./img/file-type-light-symfony.256x256.png) ![image info](./img/nodejs-original-wordmark.256x72.png) ![image info](./img/mysql-original-wordmark.256x133.png) ![image info](./img/mongodb-icon.256x169.png)
 
 
 
