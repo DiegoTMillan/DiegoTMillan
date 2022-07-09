@@ -1,6 +1,6 @@
 # Hi everyone! 👋
 Mi name is Diego, and I have just started a new path in my life.
-in 14th july 2022 I finished a Full Stack Web Developer bootcamp and I'm now ready to face new challenges.
+in 14th july 2022 I finished a Full Stack Web Developer bootcamp and now I'm ready to face new challenges.
 
 ### Stats
 
@@ -10,7 +10,7 @@ in 14th july 2022 I finished a Full Stack Web Developer bootcamp and I'm now rea
 
 # Projects
 
-At the end of the bootcamp I shown my own project, indeed you can see it too. Here is the links:
+At the end of the bootcamp I shown my own project, indeed you can see it too. Here you can get the links:
  - https://github.com/DiegoTMillan/Bg4Y-frontend
  - https://github.com/DiegoTMillan/Bg4Y-backend
   
